@@ -1,6 +1,6 @@
 ---
 title: JEHM tech
-heading: Just and Equitable Health Monitoring
+date: 2023-03-08
 
 ---
 
