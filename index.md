@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: JEHM tech
 ---
+heading: Just and Equitable Health Monitoring
 
